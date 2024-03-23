@@ -1,8 +1,8 @@
 # Object detection and counting using SSD 
 
-Steps:-
+**Steps:-**
 
-#step1: download ob zip file then extract it you will have 1 notebook and 2 html and one image then open notebook in colab
+#step1: download zip file then extract it you will have 1 notebook and 2 html and one image then open notebook in colab
 
 #step2: create 1st folder named templates in colab and add about.html and index.html which is extracted from zip
 
@@ -16,11 +16,13 @@ Steps:-
 
 #step7:Don't click on local host address present in last cell as i mentioned the web will in ngrok-free.app "2ND LAST CELL"
 
-Demo video and snapshots:
+**Demo video has detailed instructions click link below**
+
+**Demo video and snapshots:**
 https://drive.google.com/drive/folders/1EHsAhfBLXPChFGQd7kuXFmPEZ5tKv5zn?usp=drive_link
 
 
-FEATURES:
+**FEATURES:**
 
 ⦿ Object Detection Using SSD Algorithm: The project utilizes a Single Shot MultiBox Detector (SSD) algorithm to analyze input images. SSD is a deep learning-based object detection algorithm that efficiently detects multiple objects within images in real-time.
 
